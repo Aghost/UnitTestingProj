@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using TestingTest.Interfaces;
+using TestingTest.Core.Interfaces;
 
-namespace TestingTest
+namespace TestingTest.Core
 {
     public class Repository : IRepository
     {

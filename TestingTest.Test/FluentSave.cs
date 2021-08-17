@@ -1,6 +1,7 @@
 ﻿using System;
-using TestingTest.Interfaces;
-using TestingTest.Services;
+using TestingTest.Core;
+using TestingTest.Core.Interfaces;
+using TestingTest.Core.Services;
 using Xunit;
 using Moq;
 using FluentAssertions;

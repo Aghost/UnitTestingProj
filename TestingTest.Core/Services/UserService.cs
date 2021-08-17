@@ -1,8 +1,8 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
-using TestingTest.Interfaces;
+using TestingTest.Core.Interfaces;
 
-namespace TestingTest.Services
+namespace TestingTest.Core.Services
 {
     public class UserService : IUserService
     {

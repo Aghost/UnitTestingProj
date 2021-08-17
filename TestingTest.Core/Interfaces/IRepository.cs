@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace TestingTest.Interfaces
+namespace TestingTest.Core.Interfaces
 {
     public interface IRepository
     {

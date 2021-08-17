@@ -1,4 +1,4 @@
-﻿namespace TestingTest
+﻿namespace TestingTest.Core.Interfaces
 {
     public interface IUserService
     {
