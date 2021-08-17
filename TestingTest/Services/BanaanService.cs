@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using TestingTest.Interfaces;
 
-namespace TestingTest
+namespace TestingTest.Services
 {
     public class BanaanService : IBanaanService
     {
